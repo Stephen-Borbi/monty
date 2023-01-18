@@ -187,6 +187,6 @@ Monty Files:
 
 ## Autors
 
-* **Samuel Martinez** - [samuelsrmv](https://github.com/samuelsrmv)
+* **Borbi Stephen** - [xorladem](https://github.com/xorladem)
 
-* **Jordan Buitrago Sandoval** - [drc288](https://github.com/drc288)
+* **Mildred Konney** - [mildredkonney](https://github.com/mildredkonney)
